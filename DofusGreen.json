@@ -1,0 +1,13 @@
+
+		{
+        "author" : "Korenos", 
+        "name" : "DofusGreen", 
+        "keyWords" : "keyword1,keyword2",
+        "version" : "1.0.0",
+        "dofusVersion" : "2.47", 
+        "description" : "Thême vert pour Dofus tiré de Xélorium", 
+        "url" : "https://github.com/korenos77/DofusGreen/raw/master/DofusGreen.7z",
+        "previewUrl" : "https://github.com/korenos77/DofusGreen/raw/master/Preview.png", 
+        "creationDate" : "15/05/2018", 
+        "modificationDate" : "15/05/2018"
+		} 
